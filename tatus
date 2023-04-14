@@ -1,0 +1,31 @@
+[33mcommit b8760eb6f704265047f4cb9e62e8dc616a0c1542[m[33m ([m[1;36mHEAD -> [m[1;32mbranch_a[m[33m, [m[1;32mmaster[m[33m)[m
+Author: wesley jakob <lewesleydj@gmail.com>
+Date:   Thu Apr 13 14:07:51 2023 -0300
+
+    delete dos arquivos
+
+[33mcommit 147f2d8485d617db88311afb3f2ddf8b8e2b76d6[m
+Author: wesley jakob <lewesleydj@gmail.com>
+Date:   Wed Apr 12 15:16:13 2023 -0300
+
+    inclusão de changelog.md
+
+[33mcommit dd9fea6a72d3ed82e4434f2cb09a6fb8ee230f37[m
+Author: wesley jakob <lewesleydj@gmail.com>
+Date:   Wed Apr 12 15:09:43 2023 -0300
+
+    Colocando uma nova mensagem no arquivo2.txt
+
+[33mcommit fd737a336b97d7e08331c1bb4f4bfcd2dfb9055a[m
+Author: wesley jakob <lewesleydj@gmail.com>
+Date:   Wed Apr 12 15:08:37 2023 -0300
+
+    Alterando o conteudo de arquivo2.txt
+
+[33mcommit 40aa3dd5dc4f0afc13e9383c4730ac7c6a5c8b2e[m
+Author: wesley jakob <lewesleydj@gmail.com>
+Date:   Wed Apr 12 15:06:29 2023 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos(arquivo.txt e arquivo2.txt)
